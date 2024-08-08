@@ -1,7 +1,6 @@
 -  **Hi there**👋
 - 🌱 Currently on a mission to master SQL and Power BI — turning data challenges into daily victories!
 - 👀 Interested in Data Analytics and Data Storytelling
-- 🤝 I am looking to collaborate on portfolio projects and connect with fellow data enthusiasts
 - 🔍 Feel free to explore my GitHub repository to see my projects.
 
 <!---
